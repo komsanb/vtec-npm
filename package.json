@@ -1,6 +1,6 @@
 {
   "name": "@komsanb/vtec-npm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -34,11 +34,20 @@
     "vite-plugin-vue-devtools": "^7.3.1",
     "vue-tsc": "^2.0.21"
   },
-  "description": "Testing npm to collecting components",
+  "description": "Testing about npm project to collecting component.",
   "main": "index.js",
   "keywords": [
-    "vtec"
+    "vtec",
+    "starter"
   ],
   "author": "komsanb",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komsanb/vtec-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/komsanb/vtec-npm/issues"
+  },
+  "homepage": "https://github.com/komsanb/vtec-npm#readme"
 }
